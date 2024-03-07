@@ -16,6 +16,7 @@ This repository serves as a comprehensive source for data and tools that are piv
 - [Utilities](#utilities)
 - [Climate](#climate)
 - [Uncategorized](#uncategorized)
+- [Reports](#reports)
 
 ## Carbon
 - [ElectricityMap](https://app.electricitymap.org/map) - Live CO₂ emissions of electricity consumption (Paid)
@@ -68,6 +69,24 @@ This repository serves as a comprehensive source for data and tools that are piv
 - [NIST EERC](https://pages.nist.gov/eerc/) - Energy Escalation Rate Calculator (Free)
 - [Facility Registry Service](https://www.epa.gov/frs/frs-query) - Query the EPA's facility database (Free)
 - [Global Energy Monitor](https://globalenergymonitor.org/) - Trackers covering major industrial industries (Free)
+
+## Reports
+- [Renewables 2023](Renewables_2023.pdf) - Analyzes and forecasts renewable energy technology deployment up to 2028 (IEA Report)
+- [Summary Report: The Climate Impact of Congressional Infrastructure and Budget Bills](REPEAT_Summary_Report_022822.pdf) - Analyzes the climate impacts of IIJA and BBBA on US emissions (Report)
+- [Characterisation study of the incoming and outgoing streams from sorting facilities](Overview_Characterisation_study_Refashion_2023_EN.pdf) - Characterizes streams from sorting facilities for recycling potential (Refashion Study)
+- [Sustainable and Responsible Critical Mineral Supply Chains](SustainableandResponsibleCriticalMineralSupplyChains.pdf) - Provides policy guidance for sustainable mineral supply chains (Guidance Document)
+- [The New Plastics Economy](The New Plastics Economy_ Rethinking the future of plastics.pdf) - Proposes a circular economy model for the plastics industry (Report)
+- [The Role of E-fuels in Decarbonising Transport](TheRoleofE-fuelsinDecarbonisingTransport.pdf) - Explores the viability of e-fuels in transport decarbonisation (Report)
+- [Microsoft Carbon Removal June 2023](Microsoft Carbon Removal FY23 Lessons Learned.pdf) - Outlines Microsoft's 2023 carbon removal strategies and industry insights (Microsoft Report)
+- [Facilitating a Circular Economy, Textiles](NIST.SP.1500-207.pdf) - Summarizes a NIST-led workshop on textile circular economy (Workshop Summary)
+- [Energy Efficiency 2023](EnergyEfficiency2023.pdf) - Analyzes global energy efficiency trends and policies (IEA Report)
+- [Technical monitoring of optical sorting, recognition and disassembly technologies for textiles](240428_Synthèse_Veille-technos-tri-délissage_VF-EN.pdf) - Reviews European textile sorting and recycling technologies (Technical Report)
+- [Energy Primer](energy-primer-2020_0.pdf) - Provides an overview of energy market fundamentals (Primer)
+- [Closing the Plastics Circularity Gap](closing-plastics-gap-full-report.pdf) - Discusses strategies for reducing plastic pollution and enhancing circularity (Report)
+- [How Resources Are Selected and Prices Are Set in the Wholesale Energy Markets](How Resources Are Selected and Prices Are Set in the Wholesale Energy Markets.pdf) - Explains resource selection and pricing in wholesale energy markets (Market Analysis)
+- [Clean Energy Market Monitor – March 2024](CleanEnergyMarketMonitorMarch2024.pdf) - Provides an overview of 2023 clean energy deployment trends (IEA Report)
+- [Analysis and forecast to 2026 - Electricity](Electricity2024-Analysisandforecastto2026.pdf) - Forecasts electricity market trends through 2026 (Market Forecast)
+- [Coal 2023 Abstract](Coal_2023.pdf) - Analyzes coal market trends and forecasts up to 2026 (Market Analysis)
 
 
 
