@@ -21,6 +21,7 @@ This repository serves as a comprehensive source for data and tools that are piv
 - [ElectricityMap](https://app.electricitymap.org/map) - Live CO₂ emissions of electricity consumption (Paid)
 - [WattTime](https://www.watttime.org/) - Live & predictive CO₂ emissions data (Paid)
 - [EPA FLIGHT](https://ghgdata.epa.gov/ghgp/main.do?site_preference=normal) - Information on greenhouse gas emissions from large U.S. facilities (Free)
+- [Federal LCA Commons](https://www.lcacommons.gov/lca-collaboration/) - Life Cycle Assessment Data published by various US agencies. (Free)
 
 ## Policy
 - [DSIRE](https://www.dsireusa.org/) - Database of State Incentives for Renewables & Efficiency (Free)
@@ -56,13 +57,16 @@ This repository serves as a comprehensive source for data and tools that are piv
 - [AEMO Map](https://www.aemo.com.au/aemo/apps/visualisations/map.html) - Visualization for renewable energy decision-making (Free)
 - [CAISO Price Map](http://www.caiso.com/pricemap/Pages/default.aspx) - Wholesale power market prices (Free)
 - [NYISO Dashboard](https://www.nyiso.com/markets) - Market operations data (Free)
+- [GridStatus.io](https://www.gridstatus.io) - US Grid Energy Data (Free)
 
-## Climate
+## Weather
 - [Nullschool Earth](https://earth.nullschool.net/) - Global weather conditions visualization (Free)
+- [Windy](https://windy.com/) - Gloabl weather data (Free & Paid)
 
 ## Uncategorized
 - [SLOPE](https://maps.nrel.gov/slope/) - Planning for Energy Platform (Free)
 - [NIST EERC](https://pages.nist.gov/eerc/) - Energy Escalation Rate Calculator (Free)
+- [Facility Registry Service](https://www.epa.gov/frs/frs-query) - Query the EPA's facility database (Free)
 
 
 
