@@ -67,6 +67,7 @@ This repository serves as a comprehensive source for data and tools that are piv
 - [SLOPE](https://maps.nrel.gov/slope/) - Planning for Energy Platform (Free)
 - [NIST EERC](https://pages.nist.gov/eerc/) - Energy Escalation Rate Calculator (Free)
 - [Facility Registry Service](https://www.epa.gov/frs/frs-query) - Query the EPA's facility database (Free)
+- [Global Energy Monitor](https://globalenergymonitor.org/) - Trackers covering major industrial industries (Free)
 
 
 
