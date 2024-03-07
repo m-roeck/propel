@@ -78,21 +78,30 @@ This repository acts as a crucial resource hub, aggregating pivotal data, report
 ## Reports
 
 ### Energy Sector
-- [Renewables 2023](https://www.iea.org/reports/renewables-2023)
-- [Energy Efficiency 2023](https://www.iea.org/reports/energy-efficiency-2023)
-- [Clean Energy Market Monitor – March 2024](https://www.iea.org/reports/clean-energy-market-monitor-march-2024)
+- [Renewables 2023](https://www.iea.org/reports/renewables-2023) - Analyzes and forecasts renewable energy technology deployment up to 2028 (IEA Report)- [Energy Efficiency 2023](https://www.iea.org/reports/energy-efficiency-2023)
+- [Clean Energy Market Monitor – March 2024](https://www.iea.org/reports/clean-energy-market-monitor-march-2024) - Provides an overview of 2023 clean energy deployment trends (IEA Report)
+- [How Resources Are Selected and Prices Are Set in the Wholesale Energy Markets](https://www.iso-ne.com/about/what-we-do/in-depth/how-resources-are-selected-and-prices-are-set) - Explains resource selection and pricing in wholesale energy markets (Market Analysis)
+- [Energy Primer](https://www.ferc.gov/sites/default/files/2020-06/energy-primer-2020_0.pdf) - Provides an overview of energy market fundamentals (Primer)
+- [Energy Efficiency 2023](https://www.iea.org/reports/energy-efficiency-2023) - Analyzes global energy efficiency trends and policies (IEA Report)
+- [Microsoft Carbon Removal June 2023](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW16V26) - Outlines Microsoft's 2023 carbon removal strategies and industry insights (Microsoft Report)
+- [The Role of E-fuels in Decarbonising Transport](https://www.iea.org/reports/the-role-of-e-fuels-in-decarbonising-transport) - Explores the viability of e-fuels in transport decarbonisation (Report)
 
 ### Policy and Regulation
-- [Summary Report: The Climate Impact of Congressional Infrastructure and Budget Bills](https://repeatproject.org/docs/REPEAT_Summary_Report_022822.pdf)
+- [Summary Report: The Climate Impact of Congressional Infrastructure and Budget Bills](https://repeatproject.org/docs/REPEAT_Summary_Report_022822.pdf) - Analyzes the climate impacts of IIJA and BBBA on US emissions (Report) 
 
 ### Market Analysis
-- [Analysis and forecast to 2026 - Electricity](https://iea.blob.core.windows.net/assets/ddd078a8-422b-44a9-a668-52355f24133b/Electricity2024-Analysisandforecastto2026.pdf)
-- [Coal 2023 Abstract](https://iea.blob.core.windows.net/assets/a72a7ffa-c5f2-4ed8-a2bf-eb035931d95c/Coal_2023.pdf)
+- [Analysis and forecast to 2026 - Electricity](https://iea.blob.core.windows.net/assets/ddd078a8-422b-44a9-a668-52355f24133b/Electricity2024-Analysisandforecastto2026.pdf) - Forecasts electricity market trends through 2026 (Market Forecast)
+- [Coal 2023 Abstract](https://iea.blob.core.windows.net/assets/a72a7ffa-c5f2-4ed8-a2bf-eb035931d95c/Coal_2023.pdf) - Analyzes coal market trends and forecasts up to 2026 (Market Analysis)
 
 ### Circular Economy
 - [The New Plastics Economy](https://emf.thirdlight.com/file/24/_A-BkCs_skP18I_Am1g_JWxFrX/The%20New%20Plastics%20Economy%3A%20Rethinking%20the%20future%20of%20plastics.pdf)
+- [Closing the Plastics Circularity Gap](https://bbia.org.uk/wp-content/uploads/2022/04/closing-plastics-gap-full-report.pdf) - Discusses strategies for reducing plastic pollution and enhancing circularity (Report)
 - [Facilitating a Circular Economy, Textiles](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1500-207.pdf)
-- [Technical monitoring of optical sorting, recognition and disassembly technologies for textiles](https://refashion.fr/pro/sites/default/files/rapport-etude/240428_Synth%C3%A8se_Veille-technos-tri-d%C3%A9lissage_VF-EN.pdf)
+- [Technical monitoring of optical sorting, recognition and disassembly technologies for textiles](https://refashion.fr/pro/sites/default/files/rapport-etude/240428_Synth%C3%A8se_Veille-technos-tri-d%C3%A9lissage_VF-EN.pdf) - Reviews European textile sorting and recycling technologies (Technical Report)
+- [Facilitating a Circular Economy, Textiles](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1500-207.pdf) - Summarizes a NIST-led workshop on textile circular economy (Workshop Summary)
+- [Sustainable and Responsible Critical Mineral Supply Chains](https://www.iea.org/reports/sustainable-and-responsible-critical-mineral-supply-chains) - Provides policy guidance for sustainable mineral supply chains (Guidance Document)
+
+
 
 
 
