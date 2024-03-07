@@ -94,9 +94,8 @@ This repository acts as a crucial resource hub, aggregating pivotal data, report
 - [Coal 2023 Abstract](https://iea.blob.core.windows.net/assets/a72a7ffa-c5f2-4ed8-a2bf-eb035931d95c/Coal_2023.pdf) - Analyzes coal market trends and forecasts up to 2026 (Market Analysis)
 
 ### Circular Economy
-- [The New Plastics Economy](https://emf.thirdlight.com/file/24/_A-BkCs_skP18I_Am1g_JWxFrX/The%20New%20Plastics%20Economy%3A%20Rethinking%20the%20future%20of%20plastics.pdf)
+- [The New Plastics Economy](https://emf.thirdlight.com/file/24/_A-BkCs_skP18I_Am1g_JWxFrX/The%20New%20Plastics%20Economy%3A%20Rethinking%20the%20future%20of%20plastics.pdf) - Proposes a circular economy model for the plastics industry (Report)
 - [Closing the Plastics Circularity Gap](https://bbia.org.uk/wp-content/uploads/2022/04/closing-plastics-gap-full-report.pdf) - Discusses strategies for reducing plastic pollution and enhancing circularity (Report)
-- [Facilitating a Circular Economy, Textiles](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1500-207.pdf)
 - [Technical monitoring of optical sorting, recognition and disassembly technologies for textiles](https://refashion.fr/pro/sites/default/files/rapport-etude/240428_Synth%C3%A8se_Veille-technos-tri-d%C3%A9lissage_VF-EN.pdf) - Reviews European textile sorting and recycling technologies (Technical Report)
 - [Facilitating a Circular Economy, Textiles](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1500-207.pdf) - Summarizes a NIST-led workshop on textile circular economy (Workshop Summary)
 - [Sustainable and Responsible Critical Mineral Supply Chains](https://www.iea.org/reports/sustainable-and-responsible-critical-mineral-supply-chains) - Provides policy guidance for sustainable mineral supply chains (Guidance Document)
