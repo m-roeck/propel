@@ -1,4 +1,4 @@
-# Data & Tools to Propel Decarbonization
+# Data, Reports & Tools to Propel Decarbonization
 
 A collective list of data and tools useful in the decarbonization space.
 
