@@ -11,7 +11,7 @@ This repository acts as a crucial resource hub, aggregating pivotal data, report
   - [Resources](#resources)
   - [Newsletters](#newsletters)
   - [Distributed Energy Resources](#distributed-energy-resources)
-  - [Utilities](#utilities)
+  - [Power Markets](#power-markets)
   - [Weather](#weather)
   - [Uncategorized](#uncategorized)
 - [Reports](#reports)
@@ -59,7 +59,7 @@ This repository acts as a crucial resource hub, aggregating pivotal data, report
 - [REZoning](https://rezoning.energydata.info/) - Identifies and visualizes optimal zones for renewable energy projects (Free)
 - [Storage Sizing Tool](https://storagesizing.energydata.info/) - Sizes batteries for solar PV systems (Free)
 
-### Utilities
+### Power Markets
 - [AEMO Map](https://www.aemo.com.au/aemo/apps/visualisations/map.html) - Visualization for renewable energy decision-making (Free)
 - [CAISO Price Map](http://www.caiso.com/pricemap/Pages/default.aspx) - Wholesale power market prices (Free)
 - [NYISO Dashboard](https://www.nyiso.com/markets) - Market operations data (Free)
