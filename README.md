@@ -85,9 +85,16 @@ This repository acts as a crucial resource hub, aggregating pivotal data, report
 - [Energy Efficiency 2023](https://www.iea.org/reports/energy-efficiency-2023) - Analyzes global energy efficiency trends and policies (IEA Report)
 - [Microsoft Carbon Removal June 2023](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW16V26) - Outlines Microsoft's 2023 carbon removal strategies and industry insights (Microsoft Report)
 - [The Role of E-fuels in Decarbonising Transport](https://www.iea.org/reports/the-role-of-e-fuels-in-decarbonising-transport) - Explores the viability of e-fuels in transport decarbonisation (Report)
+- [World Energy Outlook 2023](https://www.iea.org/reports/world-energy-outlook-2023) - Addresses global energy challenges, emphasizing clean technology and energy security (Outlook Report)
+- [Clean power: how companies can decarbonize electricity – Watershed](https://watershed.com/blog/clean-power-how-companies-decarbonize-electricity) - Offers strategies for businesses to source clean electricity and support clean energy projects (Strategy Guide)
+- [Fall 2023 Solar Industry Update](https://www.nrel.gov/docs/fy24osti/88026.pdf) - Updates on solar industry trends, market data, and manufacturing insights (Industry Update)
+- [U.S. Solar Photovoltaic System and Energy Storage Cost Benchmarks](https://www.nrel.gov/docs/fy22osti/83586.pdf) - Analyzes cost benchmarks for solar and energy storage in the U.S. (Benchmark Report)
+- [Hydrogen Considerations Tree](https://www.nrel.gov/docs/fy24osti/87797.pdf) - Discusses key factors in adopting hydrogen solutions for sustainability (Decision-Making Guide)
 
 ### Policy and Regulation
-- [Summary Report: The Climate Impact of Congressional Infrastructure and Budget Bills](https://repeatproject.org/docs/REPEAT_Summary_Report_022822.pdf) - Analyzes the climate impacts of IIJA and BBBA on US emissions (Report) 
+- [Summary Report: The Climate Impact of Congressional Infrastructure and Budget Bills](https://repeatproject.org/docs/REPEAT_Summary_Report_022822.pdf) - Analyzes the climate impacts of IIJA and BBBA on US emissions (Report)
+- [Climate Change 2023: Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_LongerReport.pdf) - Summarizes IPCC AR6 findings on climate change impacts and adaptation strategies (Synthesis Report)
+- [Emissions Gap Report 2023: Broken Record](https://www.unep.org/resources/emissions-gap-report-2023) - Assesses the emissions gap and necessary actions to limit global warming (Gap Analysis Report)
 
 ### Market Analysis
 - [Analysis and forecast to 2026 - Electricity](https://iea.blob.core.windows.net/assets/ddd078a8-422b-44a9-a668-52355f24133b/Electricity2024-Analysisandforecastto2026.pdf) - Forecasts electricity market trends through 2026 (Market Forecast)
@@ -99,6 +106,15 @@ This repository acts as a crucial resource hub, aggregating pivotal data, report
 - [Technical monitoring of optical sorting, recognition and disassembly technologies for textiles](https://refashion.fr/pro/sites/default/files/rapport-etude/240428_Synth%C3%A8se_Veille-technos-tri-d%C3%A9lissage_VF-EN.pdf) - Reviews European textile sorting and recycling technologies (Technical Report)
 - [Facilitating a Circular Economy, Textiles](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1500-207.pdf) - Summarizes a NIST-led workshop on textile circular economy (Workshop Summary)
 - [Sustainable and Responsible Critical Mineral Supply Chains](https://www.iea.org/reports/sustainable-and-responsible-critical-mineral-supply-chains) - Provides policy guidance for sustainable mineral supply chains (Guidance Document)
+
+### Carbon Accounting
+- [How to Build a High Impact Climate Program](https://watershed.com/guides/how-to-build-a-climate-program) - Guides businesses on establishing impactful climate programs with actionable steps (Implementation Guide)
+- [CDP Reporting Requirements - Watershed](https://watershed.com/platform/climate-disclosures/cdp) - Explains the CDP reporting framework and offers tips for effective disclosure (Reporting Guide)
+- [TCFD: Everything to know about the Task Force on Climate-related Financial Disclosures – Watershed](https://watershed.com/platform/climate-disclosures/tcfd) - Provides comprehensive insights into TCFD recommendations and compliance benefits (Framework Guide)
+- [Science Based Targets: Full Guide for Companies – Watershed](https://watershed.com/blog/science-based-targets-a-guide-for-companies) - Guides companies on setting and achieving science-based climate targets (Target Setting Guide)
+
+
+
 
 
 
